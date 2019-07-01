@@ -1,3 +1,3 @@
 # Portfolio
 
-![track image](Portfolio/Images/Track/Track_screenshot.png)
+![track image](/Images/Track/Track_screenshot.png)
