@@ -1,6 +1,6 @@
-# Portfolio
+# My Portfolio
 
-### Procedural Track Generation
+### Procedural Track Generator
 
 ![track image](/Images/Track/Track_screenshot.png)
 
@@ -9,3 +9,6 @@ As a part of my final year computing project, I developed a prototype procedural
 ![track nodes](/Images/Track/Track_nodes.png)
 ![track nodes](/Images/Track/Track_wireframe.png)
 
+### Ai Project
+
+![Ai Gif](/Images/AI/AI_Gif.gif)
