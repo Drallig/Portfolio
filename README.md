@@ -6,10 +6,12 @@
 
 As a part of my final year computing project, I developed a prototype procedural race track generator. This worked by generating a terrain for the track, then positioning nodes on a grid for corners. Using an A* algorithm, the nodes are then connected to form a track. A mesh is constructed using the nodes in the grid as a reference for polygon positions.
 
+You can find the project files [here](https://github.com/DralligStudent/ProceduralTrack)
+
 ![track nodes](/Images/Track/Track_nodes.png)
 ![track wireframe](/Images/Track/Track_wireframe.png)
 
-You can find the project files [here](https://github.com/DralligStudent/ProceduralTrack)
+
 
 ### Artificial Intelligence Project
 
@@ -17,6 +19,8 @@ You can find the project files [here](https://github.com/DralligStudent/Procedur
 
 For our AI project at University, we had to develop a game prototype that had different aspects of artificial intelligence. I primarily worked on the decision making aspect, implementing a finite state machine for our Zombie AI. I also assisted with the implementation of the A* pathfinding that the Zombies use.
 
+You can find the project files [here](https://github.com/DralligStudent/Zombie-Survival)
+
 ![Ai picture](/Images/AI/AI_Pic_1.png)
 
-You can find the project files [here](https://github.com/DralligStudent/Zombie-Survival)
+
