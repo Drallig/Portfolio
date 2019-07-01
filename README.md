@@ -1,6 +1,6 @@
 # Portfolio
 
-###Procedural Track Generation
+##Procedural Track Generation
 
 ![track image](/Images/Track/Track_screenshot.png)
 
